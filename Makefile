@@ -35,6 +35,9 @@ makelib:
 cleanlib:
 	make clean -C ./lib/my
 
+tests_run:
+	echo "no tests"
+
 clean: cleanlib
 	rm -f $(OBJ)
 	rm -f *.gcno
