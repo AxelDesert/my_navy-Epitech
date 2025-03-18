@@ -2,7 +2,7 @@
 
 The my_navy project is a program that make two terminals communicate with signals to play the famous battleships game.
 
-## Needs
+## Requirements
 
 The two players need a .txt file which has 4 lines with : [boat_length]:[first_pos]:[last_pos]
 Exemple :
