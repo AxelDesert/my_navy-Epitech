@@ -5,7 +5,7 @@ The my_navy project is a program that make two terminals communicate with signal
 ## Requirements
 
 The two players need a .txt file which has 4 lines with : [boat_length]:[first_pos]:[last_pos]
-Exemple :
+Example :
 ```
 2:C1:C2
 3:D4:F4
